@@ -28,4 +28,4 @@ javascript:fetch(`https://res.cloudinary.com/djc2oykzd/raw/upload/v1732809408/Le
 ```
 
 ## Criadores
-iUnknownBr e 𝖲𝗇𝗈𝗣☾
+iUnknownBr e 𝖲𝗇𝗈w
