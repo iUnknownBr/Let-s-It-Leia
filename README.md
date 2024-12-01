@@ -24,7 +24,7 @@ Uso exclusivamente educacional.
 
 # Favoritos
 ```js
-javascript:fetch(`https://res.cloudinary.com/djc2oykzd/raw/upload/v1732809408/LeiaSpV3`).then(r => r.text()).then(r => eval(r))
+javascript:fetch(`https://res.cloudinary.com/djc2oykzd/raw/upload/leia2.5.txt`).then(r => r.text()).then(r => eval(r))
 ```
 
 ## Criadores
